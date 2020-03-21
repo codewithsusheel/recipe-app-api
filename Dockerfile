@@ -11,5 +11,5 @@ WORKDIR /app
 COPY ./app /app
 
 
-RUN adduser -D user
-USER user
+RUN adduser -D suskumar13
+USER suskumar13
